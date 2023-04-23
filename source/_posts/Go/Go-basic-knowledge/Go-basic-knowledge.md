@@ -5,7 +5,8 @@ date: 2023-04-10 01:16:19
 subtitle:
 header-img:
 tags:
-categories: Golang, Basic
+categories: 
+	- Basic
 ---
 # Go 入门知识
 > 本章节内容基于 https://tour.go-zh.org/  [Go语言测试平台](https://tour.go-zh.org/list) 索引整理完成

@@ -6,7 +6,6 @@ subtitle:
 header-img:
 tags: ospp, edgemesh
 categories: ospp
-published: false
 ---
 
 
