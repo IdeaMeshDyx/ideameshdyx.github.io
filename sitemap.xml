@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://ideameshdyx.github.io/categories/index.html</loc>
+    <loc>http://ideameshdyx.github.io/about/index.html</loc>
     
     <lastmod>2023-07-12</lastmod>
     
@@ -38,16 +38,7 @@
   </url>
   
   <url>
-    <loc>http://ideameshdyx.github.io/about/index.html</loc>
-    
-    <lastmod>2023-07-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://ideameshdyx.github.io/2023/04/01/Go/Go-enhanced-knowledge/Go%20%E7%B3%BB%E7%BB%9F%E7%9F%A5%E8%AF%86%E6%B1%87%E6%80%BB/</loc>
+    <loc>http://ideameshdyx.github.io/categories/index.html</loc>
     
     <lastmod>2023-07-12</lastmod>
     
@@ -65,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://ideameshdyx.github.io/2023/05/04/Go/Go-basic-knowledge/Go-basic-usage/</loc>
+    <loc>http://ideameshdyx.github.io/2023/04/01/Go/Go-enhanced-knowledge/Go%20%E7%B3%BB%E7%BB%9F%E7%9F%A5%E8%AF%86%E6%B1%87%E6%80%BB/</loc>
     
     <lastmod>2023-07-12</lastmod>
     
@@ -83,7 +74,25 @@
   </url>
   
   <url>
+    <loc>http://ideameshdyx.github.io/2023/05/04/Go/Go-basic-knowledge/Go-basic-usage/</loc>
+    
+    <lastmod>2023-07-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://ideameshdyx.github.io/2023/02/09/Go/Go-basic-knowledge/Go-basic-knowledge/</loc>
+    
+    <lastmod>2023-07-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://ideameshdyx.github.io/2023/07/11/EdgeMesh/2023-ospp-fighting/ipipVxlan/ipip-and-vxlan/</loc>
     
     <lastmod>2023-07-12</lastmod>
     
@@ -128,7 +137,7 @@
   </url>
   
   <url>
-    <loc>http://ideameshdyx.github.io/2023/04/18/EdgeMesh/2023-ospp-fighting/CNI-Basic/</loc>
+    <loc>http://ideameshdyx.github.io/2023/04/18/EdgeMesh/2023-ospp-fighting/CNI-LinuxNetwork/</loc>
     
     <lastmod>2023-07-12</lastmod>
     
@@ -137,7 +146,7 @@
   </url>
   
   <url>
-    <loc>http://ideameshdyx.github.io/2023/04/18/EdgeMesh/2023-ospp-fighting/CNI-LinuxNetwork/</loc>
+    <loc>http://ideameshdyx.github.io/2023/04/18/EdgeMesh/2023-ospp-fighting/CNI-Basic/</loc>
     
     <lastmod>2023-07-12</lastmod>
     
@@ -173,15 +182,6 @@
   </url>
   
   <url>
-    <loc>http://ideameshdyx.github.io/2023/04/01/Algorithm/Alg_Basic/Golang-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/linklist/Golang-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-%E9%93%BE%E8%A1%A8/</loc>
-    
-    <lastmod>2023-07-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://ideameshdyx.github.io/2023/04/01/Algorithm/Alg_Basic/Golang-%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/Golang-%E7%AE%97%E6%B3%95%E8%AF%BE%E7%A8%8B--%E7%AE%97%E6%B3%95/</loc>
     
     <lastmod>2023-07-12</lastmod>
@@ -191,7 +191,7 @@
   </url>
   
   <url>
-    <loc>http://ideameshdyx.github.io/2023/04/01/Algorithm/Alg_Basic/Golang-%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/Golang-%E5%8F%8C%E6%8C%87%E9%92%88/Golang-%E5%8F%8C%E6%8C%87%E9%92%88/</loc>
+    <loc>http://ideameshdyx.github.io/2023/04/01/Algorithm/Alg_Basic/Golang-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/linklist/Golang-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-%E9%93%BE%E8%A1%A8/</loc>
     
     <lastmod>2023-07-12</lastmod>
     
@@ -201,6 +201,15 @@
   
   <url>
     <loc>http://ideameshdyx.github.io/2023/04/01/Algorithm/Alg_Basic/Golang-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/Golang-%E7%AE%97%E6%B3%95%E8%AF%BE%E7%A8%8B--%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
+    
+    <lastmod>2023-07-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://ideameshdyx.github.io/2023/04/01/Algorithm/Alg_Basic/Golang-%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/Golang-%E5%8F%8C%E6%8C%87%E9%92%88/Golang-%E5%8F%8C%E6%8C%87%E9%92%88/</loc>
     
     <lastmod>2023-07-12</lastmod>
     
@@ -236,13 +245,6 @@
 
   
   <url>
-    <loc>http://ideameshdyx.github.io/tags/working-acm/</loc>
-    <lastmod>2023-07-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://ideameshdyx.github.io/tags/ospp-edgemesh/</loc>
     <lastmod>2023-07-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -271,14 +273,14 @@
   </url>
   
   <url>
-    <loc>http://ideameshdyx.github.io/tags/working-%E7%AE%97%E6%B3%95/</loc>
+    <loc>http://ideameshdyx.github.io/tags/working-acm/</loc>
     <lastmod>2023-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://ideameshdyx.github.io/tags/%E5%8F%8C%E6%8C%87%E9%92%88-%E7%AE%97%E6%B3%95/</loc>
+    <loc>http://ideameshdyx.github.io/tags/working-%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2023-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -298,14 +300,14 @@
     <priority>0.2</priority>
   </url>
   
-
-  
   <url>
-    <loc>http://ideameshdyx.github.io/categories/acm/</loc>
+    <loc>http://ideameshdyx.github.io/tags/%E5%8F%8C%E6%8C%87%E9%92%88-%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2023-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
+  
+
   
   <url>
     <loc>http://ideameshdyx.github.io/categories/ospp/</loc>
@@ -336,6 +338,13 @@
   </url>
   
   <url>
+    <loc>http://ideameshdyx.github.io/categories/acm/</loc>
+    <lastmod>2023-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://ideameshdyx.github.io/categories/%E7%AE%97%E6%B3%95%EF%BC%8CGolang/</loc>
     <lastmod>2023-07-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -350,14 +359,14 @@
   </url>
   
   <url>
-    <loc>http://ideameshdyx.github.io/categories/Linux/</loc>
+    <loc>http://ideameshdyx.github.io/categories/Linux-Container/</loc>
     <lastmod>2023-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://ideameshdyx.github.io/categories/Linux-Container/</loc>
+    <loc>http://ideameshdyx.github.io/categories/Linux/</loc>
     <lastmod>2023-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
