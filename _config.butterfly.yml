@@ -14,7 +14,8 @@ menu:
   标签: /tags/ || fas fa-tags
   分类: /categories/ || fas fa-folder-open
   清单||fa fa-heartbeat:
-    思维导图: /markmap/page/ || fas fa-music
+    思维导图: /Markmap/ || fas mindmap
+    照片:    /Gallery/ || fas picture
   朋友: /link/ || fas fa-link
   关于: /about/ || fas fa-heart
 
@@ -35,7 +36,7 @@ code_word_wrap: true
 #   icon: link || the description || color
 social:
   fab fa-github: https://github.com/IdeaMeshDyx || Github || '#24292e'
-  fas fa-envelope: 2374087322@qq.com || Email || '#4a7dbe'
+  fas fa-envelope: mailto:2374087322@qq.com || Email || '#4a7dbe'
 
 # Image (圖片設置)
 # --------------------------------------
